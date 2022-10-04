@@ -25,3 +25,7 @@ A simple LSB steganographic application.
 ### To decrypt:
 
 ```python [path to encrypted file]```
+
+### Python encryption/decryption
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/encrypt-and-decrypt-files-using-python/)
