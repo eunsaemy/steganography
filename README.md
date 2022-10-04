@@ -2,7 +2,12 @@
 
 ## COMP 8505 - Assignment 1
 
-A simple LSB steganographic application.
+A simple LSB steganographic application that:
+- calculates the secret data and cover file size to ascertain that the cover file is large enough to hold all the secret data
+- encrypts secret data using symmetric algorithm
+- encodes and embeds secret data into the cover image
+- decodes and extracts secret data from the cover image
+- decrypts secret data using symmetric algorithm
 
 ### Install Pillow and cryptography using the commands:
 
