@@ -13,6 +13,7 @@ A simple LSB steganographic application.
 ### For help function:
 
 ```python stego.py -h```
+
 ```python stego.py --help```
 
 ### To encrypt and encode:
