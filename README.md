@@ -7,6 +7,7 @@ A simple LSB steganographic application.
 ### Install Pillow and cryptography using the commands:
 
 ```pip install pillow```
+
 ```pip install cryptography```
 
 ### For help function:
