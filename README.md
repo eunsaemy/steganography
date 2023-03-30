@@ -1,6 +1,4 @@
-# COMP8505_ASG1
-
-## COMP 8505 - Assignment 1
+## Steganography
 
 A simple LSB steganographic application that:
 - calculates the secret data and cover file size to ascertain that the cover file is large enough to hold all the secret data
